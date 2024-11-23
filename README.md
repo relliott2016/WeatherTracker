@@ -6,7 +6,8 @@ WeatherTracker is an iOS weather application built with Swift and SwiftUI that p
 ## Installation
 1. Clone the repository
 2. Open `WeatherTracker.xcodeproj` in Xcode
-3. Build and run the project on your device or simulator.
+3. In Xcode, update the Signing & Capabilities settings to use your own development team
+4. Build and run the project on your device or simulator.
 
 ## Usage
 - Launch the app to view weather information for your saved city
