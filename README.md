@@ -37,3 +37,7 @@ WeatherTracker is an iOS weather application built with Swift and SwiftUI that p
 ## License
 
 This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
+
+## Screenshots
+
+<img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/Welcome.png" width=30% height=30%>          <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/EmptyState.png" width=30% height=30%>          <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/NoSearchResults.png" width=30% height=30%> <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/SearchResults.png" width=30% height=30%> <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/City_Celsius.png" width=30% height=30%> <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/City_Fahrenheit.png" width=30% height=30%> <img src="https://github.com/relliott2016/WeatherTracker/blob/master/Screenshots/NoInternet.png" width=30% height=30%>
