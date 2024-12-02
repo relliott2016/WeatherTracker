@@ -80,12 +80,12 @@ struct WeatherView: View {
                 .padding(.bottom, 32)
             }
 
-            Toggle(isOn: $isCelsius) {
-                Text(isCelsius ? "Celsius" : "Fahrenheit")
-                    .font(.system(size: 14))
+            Picker("Temperature Unit", selection: $isCelsius) {
+                Text("Fahrenheit").tag(false)
+                Text("Celsius").tag(true)
             }
-            .toggleStyle(SwitchToggleStyle(tint: Color.blue.opacity(0.8)))
-            .frame(width: 150)
+            .pickerStyle(.segmented)
+            .frame(width: 200)
             .background(RoundedRectangle(cornerRadius: 8)
                 .fill(Color.gray.opacity(0.1)))
 

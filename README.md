@@ -1,7 +1,7 @@
 # WeatherTracker
 
 ## Description
-WeatherTracker is an iOS weather application built with Swift and SwiftUI that provides real-time weather information. The app features a clean, intuitive interface that displays comprehensive weather data for a selected city, including temperature, weather conditions, humidity, UV index, "feels like" temperature and a Celsius / Fahrenheit toggle.
+WeatherTracker is an iOS weather application built with Swift and SwiftUI that provides real-time weather information. The app features a clean, intuitive interface that displays comprehensive weather data for a selected city, including temperature, weather conditions, humidity, UV index, "feels like" temperature and a Celsius / Fahrenheit picker.
 
 ## Installation
 1. Clone the repository
@@ -31,7 +31,7 @@ WeatherTracker is an iOS weather application built with Swift and SwiftUI that p
 - User-friendly onboarding prompts for initial city selection
 - Pull-to-refresh functionality for updating weather data
 - Network connectivity monitoring with appropriate user alerts for offline scenarios
-- Celsius / Fahrenheit toggle
+- Celsius / Fahrenheit picker
 - Swift Testing test cases
 
 ## License
